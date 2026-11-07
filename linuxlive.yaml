@@ -41,6 +41,4 @@ settings:
     - chromium
     - org.kde.kate
     - md.obsidian.Obsidian
-kiosk:
-  app: vlc
 persistence: true
